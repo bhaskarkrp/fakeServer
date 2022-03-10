@@ -1,0 +1,437 @@
+{
+  "HAE": [
+    {
+      "id": "1",
+      "title": "VARIERA",
+      "size": " Shelf insert, white32x28x16 cm (12 5/8x11x6 1/4 ",
+      "price": "399",
+      "star": "4",
+      "img1": "https://www.ikea.com/in/en/images/products/variera-shelf-insert-white__81980_pe207259_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/variera-shelf-insert-white__0867249_pe600475_s5.jpg?f=xxs"
+    },
+    {
+      "id": "2",
+      "title": "VARIERA",
+      "size": "Box, white24x17 cm (9 1/2x6 3/4 ",
+      "price": "Rs.199",
+      "star": "4.5",
+      "img1": "https://www.ikea.com/in/en/images/products/variera-box-white__0113067_pe265130_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/variera-box-white__0260308_pe404025_s5.jpg?f=s"
+    },
+    {
+      "id": "3",
+      "title": "UPPDATERA",
+      "size": "Knife rack, anthracite20x50 cm (8x20",
+      "price": "Rs.199",
+      "star": "3.5",
+      "img1": "https://www.ikea.com/in/en/images/products/uppdatera-knife-rack-anthracite__0981344_pe815341_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/uppdatera-knife-rack-anthracite__0968737_pe810537_s5.jpg?f=s"
+    },
+    {
+      "id": "4",
+      "title": "VARIERA",
+      "size": "Pot lid organiser, stainless steel",
+      "price": "Rs.599",
+      "star": "5",
+      "img1": "https://www.ikea.com/in/en/images/products/variera-pot-lid-organiser-stainless-steel__0626878_pe693056_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/variera-pot-lid-organiser-stainless-steel__0867283_pe607180_s5.jpg?f=s"
+    },
+    {
+      "id": "5",
+      "title": "ENHET",
+      "size": "concrete 80x30x75 cm (31 1/2x11 3/4x29 1/2",
+      "price": "Rs.6,300",
+      "star": "3.8",
+      "img1": "https://www.ikea.com/in/en/images/products/enhet-wall-cb-w-2-shlvs-doors-white-concrete-effect__0915694_pe784870_s5.jpg?f=xl",
+      "img2": "https://www.ikea.com/in/en/images/products/enhet-wall-cb-w-2-shlvs-doors-white-concrete-effect__0816101_pe773225_s5.jpg?f=s"
+    },
+    {
+      "id": "11",
+      "title": "UPPDATERA",
+      "size": "Plate holder, anthracite15-23 cm (6-9 ",
+      "price": "Rs.500",
+      "star": "4.1",
+      "img1": "https://www.ikea.com/in/en/images/products/uppdatera-plate-holder-anthracite__1058002_pe849097_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/uppdatera-plate-holder-anthracite__1054489_pe847712_s5.jpg?f=s"
+    },
+    {
+      "id": "6",
+      "title": "STÖDJA",
+      "size": "Cutlery tray, white31x50 cm (12x20",
+      "price": "Rs.199",
+      "star": "4.1",
+      "img1": "https://www.ikea.com/in/en/images/products/stoedja-cutlery-tray-white__0260314_pe404031_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/stoedja-cutlery-tray-white__0107315_pe256931_s5.jpg?f=s"
+    },
+    {
+      "id": "7",
+      "title": "SUNNERSTA",
+      "size": "Container, white12x11 cm (4 3/4x4 3/8",
+      "price": "Rs.49",
+      "star": "4.6",
+      "img1": "https://www.ikea.com/in/en/images/products/sunnersta-container-white__0409165_pe601916_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/sunnersta-container-white__0688065_ph134023_s5.jpg?f=xl"
+    },
+    {
+      "id": "8",
+      "title": "HÅLLBAR",
+      "size": "Bin with lid, light grey3 l (101 oz",
+      "price": "Rs.300",
+      "star": "4.9",
+      "img1": "https://www.ikea.com/in/en/images/products/hallbar-bin-with-lid-light-grey__0924725_pe788628_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/hallbar-bin-with-lid-light-grey__0742696_pe742763_s5.jpg?f=s"
+    },
+    {
+      "id": "9",
+      "title": "GUBBARP",
+      "size": "Knob, white21 mm (13/16 ",
+      "price": "Rs.40/ 2 pack",
+      "star": "4.5",
+      "img1": "https://www.ikea.com/in/en/images/products/gubbarp-knob-white__0872344_pe719922_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/gubbarp-knob-white__0754163_pe747805_s5.jpg?f=s"
+    },
+    {
+      "id": "10",
+      "title": "HÅLLBAR",
+      "size": "ventilated/light grey40 l (11 gallon",
+      "price": "Rs.2,897",
+      "star": "5",
+      "img1": "https://www.ikea.com/in/en/images/products/hallbar-waste-sorting-solution-for-metod-kitchen-drawer-ventilated-light-grey__0924811_pe788633_s5.jpg?f=xl",
+      "img2": "https://www.ikea.com/in/en/images/products/hallbar-waste-sorting-solution-for-metod-kitchen-drawer-ventilated-light-grey__0761377_pe751242_s5.jpg?f=s"
+    }
+  ],
+  "MTA": [
+    {
+      "id": "1",
+      "title": "KLIPSK",
+      "size": "Bed tray, black",
+      "price": "Rs.599",
+      "star": "5",
+      "img1": "https://www.ikea.com/in/en/images/products/klipsk-bed-tray-black__0504711_pe633466_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/klipsk-bed-tray-black__0896327_pe633467_s5.jpg?f=s"
+    },
+    {
+      "id": "2",
+      "title": "KLOCKIS",
+      "size": "Clock/thermometer/alarm/timer, white",
+      "price": "Rs.349",
+      "star": "3",
+      "img1": "https://www.ikea.com/in/en/images/products/klockis-clock-thermometer-alarm-timer-white__0905262_pe597342_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/klockis-clock-thermometer-alarm-timer-white__0637382_pe698266_s5.jpg?f=s"
+    },
+    {
+      "id": "3",
+      "title": "YUPPIENALLE",
+      "size": "Holder for mobile phone, grey",
+      "price": "Rs.49",
+      "star": "3.8",
+      "img1": "https://www.ikea.com/in/en/images/products/yuppienalle-holder-for-mobile-phone-grey__1020769_pe831987_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/yuppienalle-holder-for-mobile-phone-grey__1020769_pe831987_s5.jpg?f=s"
+    },
+    {
+      "id": "4",
+      "title": "ISBERGET",
+      "size": "Tablet stand, white25x25 cm (9 7/8x9 7/8",
+      "price": "Rs.199",
+      "star": "4.9",
+      "img1": "https://www.ikea.com/in/en/images/products/isberget-tablet-stand-white__0328926_pe519790_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/isberget-tablet-stand-white__0855305_pe564867_s5.jpg?f=s"
+    },
+    {
+      "id": "5",
+      "title": "KUNGSFORS",
+      "size": "Tablet stand, stainless steel26x12 cm (10 1/4x4 3/4",
+      "price": "Rs.649",
+      "star": "4",
+      "img1": "https://www.ikea.com/in/en/images/products/kungsfors-tablet-stand-stainless-steel__0713278_pe729388_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/kungsfors-tablet-stand-stainless-steel__0869393_pe672184_s5.jpg?f=s"
+    },
+    {
+      "id": "11",
+      "title": "LÅNESPELARE",
+      "size": "Mouse bungee, black",
+      "price": "Rs.999",
+      "star": "4.6",
+      "img1": "https://www.ikea.com/in/en/images/products/lanespelare-mouse-bungee-black__0971346_pe811273_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/lanespelare-mouse-bungee-black__0978841_pe814322_s5.jpg?f=s"
+    },
+    {
+      "id": "6",
+      "title": "SKVALLRA",
+      "size": "Desk pad, white/transparent38x58 cm (15x22 ¾ ",
+      "price": "Rs.199",
+      "star": "4",
+      "img1": "https://www.ikea.com/in/en/images/products/skvallra-desk-pad-white-transparent__0572784_pe677810_s5.jpg?f=xl",
+      "img2": "https://www.ikea.com/in/en/images/products/skvallra-desk-pad-white-transparent__0572782_pe677811_s5.jpg?f=s"
+    },
+    {
+      "id": "7",
+      "title": "BYLLAN",
+      "size": "Laptop support, Ebbarp black/white",
+      "price": "Rs.1,190",
+      "star": "4",
+      "img1": "https://www.ikea.com/in/en/images/products/byllan-laptop-support-ebbarp-black-white__0855449_pe670835_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/byllan-laptop-support-ebbarp-black-white__0564672_pe664171_s5.jpg?f=s"
+    },
+    {
+      "id": "8",
+      "title": "BRÄDA",
+      "size": "Laptop support, black42x31 cm (16 1/2x12 1/4 ",
+      "price": "Rs.499",
+      "star": "4.3",
+      "img1": "https://www.ikea.com/in/en/images/products/braeda-laptop-support-black__0256647_pe400740_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/braeda-laptop-support-black__0713313_pe729418_s5.jpg?f=s"
+    },
+    {
+      "id": "9",
+      "title": "MÖJLIGHET",
+      "size": "Headset/tablet stand, white",
+      "price": "Rs.179",
+      "star": "3.8",
+      "img1": "https://www.ikea.com/in/en/images/products/moejlighet-headset-tablet-stand-white__0958861_pe805504_s5.jpg?f=s",
+      "img2": "https://www.ikea.com/in/en/images/products/moejlighet-headset-tablet-stand-white__0958858_pe805501_s5.jpg?f=s"
+    },
+    {
+      "id": "10",
+      "title": "ISBERGET",
+      "size": "Tablet stand, grey25x25 cm (9 7/8x9 7/8",
+      "price": "Rs.199",
+      "star": "4.1",
+      "img1": "https://www.ikea.com/in/en/images/products/isberget-tablet-stand-grey__0855352_pe710140_s5.jpg?f=xl",
+      "img2": "https://www.ikea.com/in/en/images/products/isberget-tablet-stand-grey__0658057_pe710139_s5.jpg?f=s"
+    }
+  ],
+  "WFH": [
+    {
+      "id": "1",
+      "title": "MICKE",
+      "size": "Desk142x50 cm (55 7/8x19 5/8 ",
+      "price": "790",
+      "star": "4",
+      "img1": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg?f=xxs",
+      "img2": "https://www.ikea.com/global/assets/navigation/images/standing-desks-55008.jpeg?imwidth=400"
+    },
+    {
+      "id": "2",
+      "title": "MICKE",
+      "size": "Desk142x50 cm (55 7/8x19 5/8 ",
+      "price": "799",
+      "star": "1",
+      "img1": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg?f=xxs",
+      "img2": "https://www.ikea.com/global/assets/navigation/images/standing-desks-55008.jpeg?imwidth=400"
+    },
+    {
+      "id": "3",
+      "title": "MICKE",
+      "size": "Desk142x50 cm (55 7/8x19 5/8 ",
+      "price": "79900",
+      "star": "1",
+      "img1": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg?f=xxs",
+      "img2": "https://www.ikea.com/global/assets/navigation/images/standing-desks-55008.jpeg?imwidth=400"
+    },
+    {
+      "id": "4",
+      "title": "MICKE",
+      "size": "Desk142x50 cm (55 7/8x19 5/8 ",
+      "price": "990",
+      "star": "1",
+      "img1": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg?f=xxs",
+      "img2": "https://www.ikea.com/global/assets/navigation/images/standing-desks-55008.jpeg?imwidth=400"
+    },
+    {
+      "id": "5",
+      "title": "MICKE",
+      "size": "Desk142x50 cm (55 7/8x19 5/8 ",
+      "price": "4990",
+      "star": "4",
+      "img1": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg?f=xxs",
+      "img2": "https://www.ikea.com/global/assets/navigation/images/standing-desks-55008.jpeg?imwidth=400"
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "url": "https://www.ikea.com/ext/ingkadam/m/1046d72cae93b47a/original/PH161601-crop001.jpg?f=s",
+      "grid": "a"
+    },
+    {
+      "id": 2,
+      "url": "https://www.ikea.com/ext/ingkadam/m/96f3a2834187e2d/original/PH169690-crop002.jpg?f=s",
+      "grid": "b"
+    },
+    {
+      "id": 3,
+      "url": "https://www.ikea.com/ext/ingkadam/m/168fb1fbf0763f5c/original/PH161331-crop001.jpg?f=s",
+      "grid": "c"
+    },
+    {
+      "id": 4,
+      "url": "https://www.ikea.com/ext/ingkadam/m/65ef57f58a4569ac/original/PH178361-crop001.jpg?f=s",
+      "grid": "d"
+    },
+    {
+      "id": 5,
+      "url": "https://www.ikea.com/ext/ingkadam/m/62fa77cf40fa018/original/PH166195-crop001.jpg?f=s",
+      "grid": "e"
+    },
+    {
+      "id": 6,
+      "url": "https://www.ikea.com/ext/ingkadam/m/168fb1fbf0763f5c/original/PH161331-crop001.jpg?f=s",
+      "grid": "f"
+    },
+    {
+      "id": 7,
+      "url": "https://www.ikea.com/ext/ingkadam/m/54b35b800e406a15/original/PH163338-crop004.jpg?f=s",
+      "grid": "g"
+    },
+    {
+      "id": 8,
+      "url": "https://www.ikea.com/ext/ingkadam/m/64bb4b52163438ee/original/PH162811-crop002.jpg?f=s",
+      "grid": "h"
+    },
+    {
+      "id": 9,
+      "url": "https://www.ikea.com/ext/ingkadam/m/5c5cbac57f37ac0a/original/PH177187-crop001.jpg?f=s",
+      "grid": "i"
+    },
+    {
+      "id": 10,
+      "url": "https://www.ikea.com/ext/ingkadam/m/3060e2264eec7ffa/original/PH162760-crop002.jpg?f=s",
+      "grid": "j"
+    },
+    {
+      "id": 11,
+      "url": "https://www.ikea.com/ext/ingkadam/m/23e374b3ea96d8b/original/PH167064-crop001.jpg?f=s",
+      "grid": "k"
+    },
+    {
+      "id": 12,
+      "url": "https://www.ikea.com/ext/ingkadam/m/65ef57f58a4569ac/original/PH178361-crop001.jpg?f=s",
+      "grid": "l"
+    }
+  ],
+  "bedroom": [
+    {
+      "id": 1,
+      "url": "https://www.ikea.com/ext/ingkadam/m/354e9755e43839ff/original/PH163226-crop001.jpg?f=s",
+      "grid": "a"
+    },
+    {
+      "id": 2,
+      "url": "https://www.ikea.com/ext/ingkadam/m/3060e2264eec7ffa/original/PH162760-crop002.jpg?f=s",
+      "grid": "b"
+    },
+    {
+      "id": 3,
+      "url": "https://www.ikea.com/ext/ingkadam/m/23e374b3ea96d8b/original/PH167064-crop001.jpg?f=s",
+      "grid": "c"
+    },
+    {
+      "id": 4,
+      "url": "https://www.ikea.com/ext/ingkadam/m/65ef57f58a4569ac/original/PH178361-crop001.jpg?f=s",
+      "grid": "d"
+    },
+    {
+      "id": 5,
+      "url": "https://www.ikea.com/ext/ingkadam/m/64bb4b52163438ee/original/PH162811-crop002.jpg?f=s",
+      "grid": "e"
+    },
+    {
+      "id": 6,
+      "url": "https://www.ikea.com/ext/ingkadam/m/7c2adecbe5ac3037/original/PH180205.jpg?f=s",
+      "grid": "f"
+    },
+    {
+      "id": 7,
+      "url": "https://www.ikea.com/ext/ingkadam/m/354e9755e43839ff/original/PH163226-crop001.jpg?f=s",
+      "grid": "g"
+    },
+    {
+      "id": 8,
+      "url": "https://www.ikea.com/ext/ingkadam/m/3060e2264eec7ffa/original/PH162760-crop002.jpg?f=s",
+      "grid": "h"
+    },
+    {
+      "id": 9,
+      "url": "https://www.ikea.com/ext/ingkadam/m/23e374b3ea96d8b/original/PH167064-crop001.jpg?f=s",
+      "grid": "i"
+    },
+    {
+      "id": 10,
+      "url": "https://www.ikea.com/ext/ingkadam/m/65ef57f58a4569ac/original/PH178361-crop001.jpg?f=s",
+      "grid": "j"
+    },
+    {
+      "id": 11,
+      "url": "https://www.ikea.com/ext/ingkadam/m/64bb4b52163438ee/original/PH162811-crop002.jpg?f=s",
+      "grid": "k"
+    },
+    {
+      "id": 12,
+      "url": "https://www.ikea.com/ext/ingkadam/m/7c2adecbe5ac3037/original/PH180205.jpg?f=s",
+      "grid": "l"
+    }
+  ],
+  "living": [
+    {
+      "id": 1,
+      "url": "https://www.ikea.com/ext/ingkadam/m/62fa77cf40fa018/original/PH166195-crop001.jpg?f=s",
+      "grid": "a"
+    },
+    {
+      "id": 2,
+      "url": "https://www.ikea.com/ext/ingkadam/m/46e3818174bc022/original/PH168535-crop001.jpg?f=s",
+      "grid": "b"
+    },
+    {
+      "id": 3,
+      "url": "https://www.ikea.com/ext/ingkadam/m/1e336ff237dc51a3/original/PH166574-crop001.jpg?f=s",
+      "grid": "c"
+    },
+    {
+      "id": 4,
+      "url": "https://www.ikea.com/ext/ingkadam/m/1d3402683c77cf73/original/PH163555-crop001.jpg?f=s",
+      "grid": "d"
+    },
+    {
+      "id": 5,
+      "url": "https://www.ikea.com/ext/ingkadam/m/1d3402683c77cf73/original/PH163555-crop001.jpg?f=s",
+      "grid": "e"
+    },
+    {
+      "id": 6,
+      "url": "https://www.ikea.com/ext/ingkadam/m/29baf4da04f94fdb/original/PE690081-crop001.jpg?f=s",
+      "grid": "f"
+    },
+    {
+      "id": 7,
+      "url": "https://www.ikea.com/ext/ingkadam/m/77409e55a0cd0cf9/original/PH167327-crop001.jpg?f=s",
+      "grid": "g"
+    },
+    {
+      "id": 8,
+      "url": "https://www.ikea.com/ext/ingkadam/m/4033fba68283d84/original/PH168891-crop002.jpg?f=s",
+      "grid": "h"
+    },
+    {
+      "id": 9,
+      "url": "https://www.ikea.com/ext/ingkadam/m/4de16a9f04f756e9/original/PH171631.jpg?f=s",
+      "grid": "i"
+    },
+    {
+      "id": 10,
+      "url": "https://www.ikea.com/ext/ingkadam/m/161c827791d75c53/original/PH169857-crop002.jpg?f=s",
+      "grid": "j"
+    },
+    {
+      "id": 11,
+      "url": "https://www.ikea.com/ext/ingkadam/m/4033fba68283d84/original/PH168891-crop002.jpg?f=s",
+      "grid": "k"
+    },
+    {
+      "id": 12,
+      "url": "https://www.ikea.com/ext/ingkadam/m/161c827791d75c53/original/PH169857-crop002.jpg?f=s",
+      "grid": "l"
+    }
+  ]
+}
